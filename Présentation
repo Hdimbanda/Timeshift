@@ -1,0 +1,8 @@
+Pour ce nouveau sujet , je vais vous présenter un outil intégrable sur Linux qui est Timeshift.
+Timeshift est un outil (permettant de sauvegarder des données) installable sur n'importe quel distribution Linux voire plus encore dans d'autres OS.
+Pourquoi ce choix ? En ayant déjà recherché un bon nombre de solutions de sauvegarde sur Internet, je suis tombé sur celle-ci et la mise en pratique est assez simple/rapide pour un débutant qui veut s'initier à la sauvegarde sur Linux. J'appuierai ce choix en vous montrant quelques captures de la démonstration de cet outil.
+Il produit des points de restauration (des snapshots en anglais) ce qui peut déboucher sur un historique des sauvegardes réalisées. 
+Cette technique de snapshot me fait particulièrement penser au logiciel de virtualisation VMware avec les machines virtuelles et offrant la possibilité de revenir à une version antérieure (si besoin est).
+Comment réaliser une sauvegarde avec cet outil ? Il faut commencer par la "création" de ce point de cet instantané/snapshot , choisir l'étiquette souhaitée pour cette sauvegarde (manuelle,hebdomadaire...) , le type d'instantané , son emplacement dans le gestionnaire de fichiers, établir le planning de sauvegarde soit journalier,hebdomadaire,mensuel... 
+Pour personnaliser encore plus cette sauvegarde,  nous pouvons inclure par exemple pour les utilisateurs fichiers ou les exclure. Il en va de même pour les filtres avec les fichiers et répertoire de l'arborescence en sélectionnant uniquement une partie de ces derniers que nous voulons sauvegarder. 
+
